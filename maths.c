@@ -6,4 +6,4 @@ int main()
  void divide(int a,int b);
  void multi(int a,int b);
 
-}ls
+}
